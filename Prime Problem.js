@@ -1,4 +1,4 @@
-// This is mistake file
+// This is correct code
 
 let num = 20;
 
@@ -9,7 +9,7 @@ for(let i=0; i<num; i++){
     }
 }
 if(sum==2){
-    console.log("Not Prime");
+    console.log("Prime");
 }else{
     console.log("Not Prime");
 }
